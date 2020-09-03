@@ -3,7 +3,7 @@
 - I hope you all have successfully installed ROS Kinetic on your system.
 - All the experiment related files will be uploaded on this repository every week. 
 - Clone (copy) this repo in your catkin_ws/src
-- Always run `catkin_make` and `source./devel/setup.bash` after cloning new packages.
+- Always run `catkin_make` and `source ./devel/setup.bash` after cloning new packages.
 
 ### Experiment 1
 The first experiment is for you to learn about the basic ROS concepts like nodes, topics and messages.
